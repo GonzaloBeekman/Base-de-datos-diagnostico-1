@@ -1,0 +1,15 @@
+Punto 3:
+
+SELECT * FROM `lista de comidas` WHERE Número = 5;
+
+Punto 4:
+
+SELECT * FROM `lista de comidas` WHERE Plato LIKE 'M%';
+
+Punto 5:
+
+SELECT * FROM `lista de comidas` WHERE 'Precio porción' > 15000;
+
+Punto 6:
+
+SELECT * FROM `lista de comidas` WHERE 'Precio porción' < 90000;
